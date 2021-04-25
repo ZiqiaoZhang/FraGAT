@@ -3,6 +3,7 @@
 The code of the FraGAT model.
 
 Article: FraGAT: a fragment-oriented multi-scale graph attention model for molecular property prediction 
+
 doi: https://doi.org/10.1093/bioinformatics/btab195
 
 ## Package description
